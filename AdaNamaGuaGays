@@ -40,7 +40,7 @@ AncestorV2.TextScaled = true
 AncestorV2.TextSize = 10
 AncestorV2.TextWrapped = true
 AncestorV2.MouseButton1Down:connect(function()
-loadstring(game:HttpGet"https://pastebin.com/raw/FsQ2tTCH")()
+loadstring(game:HttpGet"https://pastebin.com/raw/FsQ2tTCH)()
 end)
 
 BloxFruits.Name = "BloxFruits"
